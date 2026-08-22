@@ -12,13 +12,13 @@ Stack: PHP, JavaScript, TypeScript, Laravel, React.
 
 ## Progress Log
 
-| Hari | Tanggal     | Soal                         | Bahasa     | Status                                                                        | Catatan                                   |
-| ---- | ----------- | ---------------------------- | ---------- | ----------------------------------------------------------------------------- | ----------------------------------------- |
-| 01   | 22-8 - 2026 | Palindrome Check             | javascript | Selesai                                                                       | masih susah hasil akhirnya masih tanya ai |
-| 01   | 22-8 - 2026 | hitung mundur dengan "while" | Selesai    | masih susah diberi clue ai, tapi hasil akhirnya saya sendiri yang mengerjakan |                                           |
-|      |             |                              |            |                                                                               |                                           |
-|      |             |                              |            |                                                                               |                                           |
-|      |             |                              |            |                                                                               |                                           |
+| Hari | Tanggal     | Soal                         | Bahasa     | Status  | Catatan                                                                       |
+| ---- | ----------- | ---------------------------- | ---------- | ------- | ----------------------------------------------------------------------------- |
+| 01   | 22-8 - 2026 | Palindrome Check             | javascript | Selesai | masih susah hasil akhirnya masih tanya ai                                     |
+| 01   | 22-8 - 2026 | hitung mundur dengan "while" | javascript | Selesai | masih susah diberi clue ai, tapi hasil akhirnya saya sendiri yang mengerjakan |
+|      |             |                              |            |         |                                                                               |
+|      |             |                              |            |         |                                                                               |
+|      |             |                              |            |         |                                                                               |
 
 ## Catatan Belajar
 
