@@ -27,6 +27,7 @@ Stack: PHP, JavaScript, TypeScript, Laravel, React.
 | 04 | 25-08-2026 | Membuat fitur seleksi return siswa dengan nilai tertinggi | JavaScript | Selesai | Kode berjalan, ada sedikit salah paham tentang soal. |
 | 04 | 25-08-2026 | Membuat fitur counting grade | JavaScript | Selesai | Kode berjalan bagus, tanpa bug, tanpa Google. Ada perbaikan untuk lebih *best practice*. |
 | 04 | 25-08-2026 | membaut filter angka duplikat | JavaScript | Selesai | perlu clue method inscludes dari ai, setelah dapat clue langsung benar total |
+| 04 | 25-08-2026 | membuat fungsi nilai rata-rata pada nested array | JavaScript | Selesai | kode berjalan sempurna dan dapat aprove dari claude. catatan minor untuk mengurangi desimal saya menggunakan toFixed yang mana returnnya jadi string, kalau bisa pakai Math.Round 100 / 100 agar nilainya jadi number/integetr | 
 
 ## Catatan Belajar
 
