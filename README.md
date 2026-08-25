@@ -11,22 +11,21 @@ Stack: PHP, JavaScript, TypeScript, Laravel, React.
 - Commit tiap selesai satu soal.
 
 ## Progress Log
-
-| Hari | Tanggal    | Soal                                                         | Bahasa     | Status  | Catatan                                                                                  |
-| :--- | :--------- | :----------------------------------------------------------- | :--------- | :------ | :--------------------------------------------------------------------------------------- | --- |
-| 01   | 22-08-2026 | Palindrome Check                                             | JavaScript | Selesai | Masih susah, hasil akhir masih tanya AI.                                                 |
-| 01   | 22-08-2026 | Hitung mundur dengan "while"                                 | JavaScript | Selesai | Diberi clue AI, tapi hasil akhir dikerjakan sendiri.                                     |
-| 01   | 22-08-2026 | Hitung genap ganjil                                          | JavaScript | Selesai | Sangat aman, hanya lupa penulisan template literal jadi butuh sedikit bantuan Google.    |
-| 01   | 22-08-2026 | Mengulangi palindrome tanpa contek kode sebelumnya           | JavaScript | Selesai | Lancar, sempat lupa cara menghapus spasi dan sedikit bingung di logika looping.          |
-| 02   | 23-08-2026 | Membuat segitiga bintang                                     | JavaScript | Selesai | Struggle di logika looping, kurang teliti di parameter sehingga hasil sama terus.        |
-| 02   | 23-08-2026 | Menghitung nilai terbesar dari array menggunakan looping for | JavaScript | Selesai | Lancar, kendala masih sama di logika looping yang kurang terasah.                        |
-| 02   | 23-08-2026 | Menghitung total harga barang dari array object              | JavaScript | Selesai | Aman, lancar, tidak perlu search Google. Peningkatan yang oke.                           |
-| 02   | 23-08-2026 | Menghitung nilai rata-rata sebuah nilai                      | JavaScript | Selesai | Tidak ada komplain, tidak lihat Google, progress yang nyata.                             |
-| 03   | 24-08-2026 | Menseleksi nilai di atas KKM                                 | JavaScript | Selesai | Tidak ada kendala, lancar, tidak lihat Google.                                           |
-| 03   | 24-08-2026 | Membuat fitur search siswa                                   | JavaScript | Selesai | Kode berhasil, namun belum _best practice_.                                              |
-| 03   | 24-08-2026 | Membuat fitur mengubah grade nilai menjadi huruf             | JavaScript | Selesai | Kode berjalan tapi banyak bug, diberi clue AI. Task selesai hari berikutnya.             |
-| 04   | 25-08-2026 | Membuat fitur seleksi return siswa dengan nilai tertinggi    | JavaScript | Selesai | Kode berjalan, ada sedikit salah paham tentang soal.                                     |
-| 04   | 25-08-2026 | Membuat fitur counting grade                                 | JavaScript | Selesai | Kode berjalan bagus, tanpa bug, tanpa Google. Ada perbaikan untuk lebih _best practice_. |     |
+| Hari | Tanggal | Soal | Bahasa | Status | Catatan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | 22-08-2026 | Palindrome Check | JavaScript | Selesai | Masih susah, hasil akhir masih tanya AI. |
+| 01 | 22-08-2026 | Hitung mundur dengan "while" | JavaScript | Selesai | Diberi clue AI, tapi hasil akhir dikerjakan sendiri. |
+| 01 | 22-08-2026 | Hitung genap ganjil | JavaScript | Selesai | Sangat aman, hanya lupa penulisan template literal jadi butuh sedikit bantuan Google. |
+| 01 | 22-08-2026 | Mengulangi palindrome tanpa contek kode sebelumnya | JavaScript | Selesai | Lancar, sempat lupa cara menghapus spasi dan sedikit bingung di logika looping. |
+| 02 | 23-08-2026 | Membuat segitiga bintang | JavaScript | Selesai | Struggle di logika looping, kurang teliti di parameter sehingga hasil sama terus. |
+| 02 | 23-08-2026 | Menghitung nilai terbesar dari array menggunakan looping for | JavaScript | Selesai | Lancar, kendala masih sama di logika looping yang kurang terasah. |
+| 02 | 23-08-2026 | Menghitung total harga barang dari array object | JavaScript | Selesai | Aman, lancar, tidak perlu search Google. Peningkatan yang oke. |
+| 02 | 23-08-2026 | Menghitung nilai rata-rata sebuah nilai | JavaScript | Selesai | Tidak ada komplain, tidak lihat Google, progress yang nyata. |
+| 03 | 24-08-2026 | Menseleksi nilai di atas KKM | JavaScript | Selesai | Tidak ada kendala, lancar, tidak lihat Google. |
+| 03 | 24-08-2026 | Membuat fitur search siswa | JavaScript | Selesai | Kode berhasil, namun belum *best practice*. |
+| 03 | 24-08-2026 | Membuat fitur mengubah grade nilai menjadi huruf | JavaScript | Selesai | Kode berjalan tapi banyak bug, diberi clue AI. Task selesai hari berikutnya. |
+| 04 | 25-08-2026 | Membuat fitur seleksi return siswa dengan nilai tertinggi | JavaScript | Selesai | Kode berjalan, ada sedikit salah paham tentang soal. |
+| 04 | 25-08-2026 | Membuat fitur counting grade | JavaScript | Selesai | Kode berjalan bagus, tanpa bug, tanpa Google. Ada perbaikan untuk lebih *best practice*. |
 
 ## Catatan Belajar
 
