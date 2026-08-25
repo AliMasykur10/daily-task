@@ -25,6 +25,7 @@ Stack: PHP, JavaScript, TypeScript, Laravel, React.
 | 03   | 24-8-2026   | membuat fitur search siswa                                   | javascript | selesai | kode sudah berhasil, namun masih belum best praktis                                                                                                                   |
 | 03   | 24-8-2026   | membuat fitur mengubah grade nilai menjadi huruf             | javascript | selesai | kode berjalan, namun banyak bug, sehingga diberi clue oleh ai. task selesai hari berikutnya karena bug itu                                                            |
 | 04   | 25-8-2026   | membuat fitur seleksi return siswa dengan nilai tertinggi    | javascript | selesai | kode berjalan, ada sedikit salah paham tentang soal                                                                                                                   |
+| 04   | 25-8-2026   | membuat fitur counting grade                                 | javascript | selesai | kode berjalan bagus tidak ada bug tidak lihat google. tapi ada perbaikan untuk lebih best praktis                                                                     |
 
 ## Catatan Belajar
 
