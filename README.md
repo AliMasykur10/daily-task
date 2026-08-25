@@ -26,6 +26,7 @@ Stack: PHP, JavaScript, TypeScript, Laravel, React.
 | 03 | 24-08-2026 | Membuat fitur mengubah grade nilai menjadi huruf | JavaScript | Selesai | Kode berjalan tapi banyak bug, diberi clue AI. Task selesai hari berikutnya. |
 | 04 | 25-08-2026 | Membuat fitur seleksi return siswa dengan nilai tertinggi | JavaScript | Selesai | Kode berjalan, ada sedikit salah paham tentang soal. |
 | 04 | 25-08-2026 | Membuat fitur counting grade | JavaScript | Selesai | Kode berjalan bagus, tanpa bug, tanpa Google. Ada perbaikan untuk lebih *best practice*. |
+| 04 | 25-08-2026 | membaut filter angka duplikat | JavaScript | Selesai | perlu clue method inscludes dari ai, setelah dapat clue langsung benar total |
 
 ## Catatan Belajar
 
