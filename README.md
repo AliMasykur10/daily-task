@@ -22,7 +22,8 @@ Stack: PHP, JavaScript, TypeScript, Laravel, React.
 | 02   | 23-8-2026   | menghitung nilai terbesar dari array menggunakan looping for | javascript | selesai | lancar kendala masih sama di logika looping yang kurang terasah                                                                                                       | 02  | 23-8-2026 | meghitung total harga harang dari array object | javascript | selesai | akhirnya tidak ada kendala aman lancar tidak perlu search google. peningkatan yang oke |
 | 02   | 23-8-2026   | menghitung nilai rata-rata sebuah nilai                      | javascript | selesai | sama dengan sebelumnya tidak ada komplain, tidak lihat google juga, progress yang nyata                                                                               |
 | 03   | 24-8-2026   | menseleksi nilai diatas kkm                                  | javascript | selesai | tidak ada kendala lancar, tidak lihat google juga                                                                                                                     |
-| 03   | 24-8-2026   | membuat fitur search siswa                                   | javascript | selesai | kode sudah berhasil, namun masih belum best praktis                                                                                                                   |
+| 03   | 24-8-2026   | membuat fitur search siswa                                   | javascript | selesai | kode sudah berhasil, namun masih belum best praktis
+|03 | 248-2026 | membuat fitur mengubah grade nilai menjadi huruf| javascript | selesai | kode berjalan, namun banyak bug, sehingga diberi clue oleh ai. task selesai hari berikutnya karena bug itu
 
 ## Catatan Belajar
 
