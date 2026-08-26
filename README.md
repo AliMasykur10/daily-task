@@ -29,6 +29,7 @@ Stack: PHP, JavaScript, TypeScript, Laravel, React.
 | 04 | 25-08-2026 | membaut filter angka duplikat | JavaScript | Selesai | perlu clue method inscludes dari ai, setelah dapat clue langsung benar total |
 | 04 | 25-08-2026 | membuat fungsi nilai rata-rata pada nested array | JavaScript | Selesai | kode berjalan sempurna dan dapat aprove dari claude. catatan minor untuk mengurangi desimal saya menggunakan toFixed yang mana returnnya jadi string, kalau bisa pakai Math.Round 100 / 100 agar nilainya jadi number/integetr | 
 | 05 | 26-08-2026 | membuat fungsi mengelompokkan siswa berdasarkan grade dengan return object | JavaScript | Selesai | Kode berjalan mulus tidak ada tambahan clue atau google. perbaikan minor di *best practice*. |
+| 05 | 26-08-2026 | membuat fungsi search dan filter | JavaScript | Selesai | kode berjalan mulus, tidka melihat google atau clue tambahan, dengan catatan minor prameter dari pengkondisian itu hasilnya boolean | 
 
 ## Catatan Belajar
 
