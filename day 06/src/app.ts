@@ -8,10 +8,9 @@ app.get("/", (req: Request, res: Response) => {
 });
 
 app.get("/users/:id", (req: Request<{ id: string }>, res: Response) => {
-  const id = req.params;
+  const { id } = req.params;
 
-  console.log(id.id);
-  res.send({ id: id.id, name: "Ali Masykur", role: "Developer" });
+  res.send({ id, name: "Ali Masykur", role: "Developer" });
 });
 
 app.get("/search", (req: Request, res: Response) => {
@@ -26,8 +25,8 @@ app.get("/search", (req: Request, res: Response) => {
 
 app.post("/products", (req: Request, res: Response) => {
   const { name, price } = req.body;
-  
-  res.status(210).json({
+
+  res.status(201).json({
     pesan: "sukses",
     data: { name, price },
   });
