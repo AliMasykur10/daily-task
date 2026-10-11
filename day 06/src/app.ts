@@ -1,4 +1,5 @@
 import express, { type Express, type Request, type Response } from "express";
+import productRoutes from "../src/routes/product.routes.ts";
 
 const app: Express = express();
 app.use(express.json());
@@ -23,14 +24,7 @@ app.get("/search", (req: Request, res: Response) => {
   });
 });
 
-app.post("/products", (req: Request, res: Response) => {
-  const { name, price } = req.body;
-
-  res.status(201).json({
-    pesan: "sukses",
-    data: { name, price },
-  });
-});
+app.use("/api", productRoutes);
 
 app.listen(3000, () => {
   console.log(`your server running on port 3000`);
