@@ -1,5 +1,6 @@
 import express, { type Express, type Request, type Response } from "express";
 import productRoutes from "../src/routes/product.routes.ts";
+import "dotenv/config";
 
 const app: Express = express();
 app.use(express.json());
@@ -26,6 +27,7 @@ app.get("/search", (req: Request, res: Response) => {
 
 app.use("/api", productRoutes);
 
-app.listen(3000, () => {
-  console.log(`your server running on port 3000`);
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`your server running on port ${PORT}`);
 });

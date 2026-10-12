@@ -4,9 +4,17 @@ const router = Router();
 router.post("/products", (req: Request, res: Response) => {
   const { name, price } = req.body;
 
+  if (!name || typeof price !== "number") {
+    return res.status(400).json({
+      error: "Nama Produk dan harga yang valid wajib diisi",
+    });
+  }
   res.status(201).json({
-    pesan: "sukses",
-    data: { name, price },
+    pesan: "suksess",
+    data: {
+      name,
+      price,
+    },
   });
 });
 
