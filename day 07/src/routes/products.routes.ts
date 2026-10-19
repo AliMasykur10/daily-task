@@ -6,7 +6,9 @@ const router = Router();
 
 const productSchema = z.object({
   name: z.string().min(3, "nama produk minimal 3 karakter"),
+  stock: z.number().min(0, "stock tidak boleh minus"),
   price: z.number().positive("Harga harus angka positif"),
+  category: z.string().min(2, "kategory minimal 2 karakter"),
 });
 
 router.post("/products", (req: Request, res: Response) => {
@@ -19,11 +21,11 @@ router.post("/products", (req: Request, res: Response) => {
     });
   }
 
-  const { name, price } = result.data;
+  const { name, stock, price, category } = result.data;
 
   res.status(201).json({
     pesan: "sukses",
-    data: { name, price },
+    data: { name, stock, price, category },
   });
 });
 
